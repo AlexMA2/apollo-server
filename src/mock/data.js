@@ -75,3 +75,5 @@ export const games = [
 		}
 	}
 ]
+
+export const tournaments = []
